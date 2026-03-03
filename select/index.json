@@ -1,0 +1,264 @@
+{
+  "version": 1,
+  "base_track": "About You (Official)",
+  "base_artist": "The 1975",
+  "createdAt": "2026-03-03T16:07:56.677101Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Songs About You",
+      "artist": "Brett Eldredge",
+      "has_synced": true,
+      "path": "select/01_Songs_About_You_Brett_Eldredge.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Song About You",
+      "artist": "Sam Grow",
+      "has_synced": true,
+      "path": "select/02_Song_About_You_Sam_Grow.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Truth About You",
+      "artist": "Mitchell Tenpenny",
+      "has_synced": true,
+      "path": "select/03_Truth_About_You_Mitchell_Tenpenny.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Don't Know About You",
+      "artist": "Chris Lane",
+      "has_synced": true,
+      "path": "select/04_I_Don't_Know_About_You_Chris_Lane.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Think About You",
+      "artist": "Collin Raye",
+      "has_synced": true,
+      "path": "select/05_I_Think_About_You_Collin_Raye.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Think About You (Album Version)",
+      "artist": "Collin Raye",
+      "has_synced": true,
+      "path": "select/06_I_Think_About_You_(Album_Version)_Collin_Raye.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "It Ain't Cool To Be Crazy About You",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/07_It_Ain't_Cool_To_Be_Crazy_About_You_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "It Ain't Cool To Be Crazy About You (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/08_It_Ain't_Cool_To_Be_Crazy_About_You_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Love That About You",
+      "artist": "Filmore",
+      "has_synced": true,
+      "path": "select/09_Love_That_About_You_Filmore.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "That's What I Like About You",
+      "artist": "Trisha Yearwood",
+      "has_synced": true,
+      "path": "select/10_That's_What_I_Like_About_You_Trisha_Yearwood.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "That's What I Like About You (Album Version)",
+      "artist": "Trisha Yearwood",
+      "has_synced": true,
+      "path": "select/11_That's_What_I_Like_About_You_(Album_Version)_Trisha_Yearwood.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "That's What I Like About You (Album Version)",
+      "artist": "Trisha Yearwood",
+      "has_synced": true,
+      "path": "select/12_That's_What_I_Like_About_You_(Album_Version)_Trisha_Yearwood.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Thinkin' About You",
+      "artist": "Trisha Yearwood",
+      "has_synced": true,
+      "path": "select/13_Thinkin'_About_You_Trisha_Yearwood.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Thinkin' About You (Album Version)",
+      "artist": "Trisha Yearwood",
+      "has_synced": true,
+      "path": "select/14_Thinkin'_About_You_(Album_Version)_Trisha_Yearwood.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "What Am I Gonna Do About You",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/15_What_Am_I_Gonna_Do_About_You_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "It's All About You (Not About Me)",
+      "artist": "Tracie Spencer",
+      "has_synced": false,
+      "path": "select/16_It's_All_About_You_(Not_About_Me)_Tracie_Spencer.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Something About You (Love The World)",
+      "artist": "LL Cool J feat. Charlie Wilson, Earth, Wind & Fire & Melody Thornton",
+      "has_synced": false,
+      "path": "select/17_Something_About_You_(Love_The_World)_LL_Cool_J_feat._Charlie_Wilson,_Earth,_Wind_&_Fire_&_Melody_Thornton.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "About Damn Time",
+      "artist": "Lizzo",
+      "has_synced": true,
+      "path": "select/18_About_Damn_Time_Lizzo.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Don't You (Forget About Me)",
+      "artist": "Simple Minds",
+      "has_synced": true,
+      "path": "select/19_Don't_You_(Forget_About_Me)_Simple_Minds.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "I Bet You Think About Me (Taylor's Version) (From The Vault) [feat. Chris Stapleton]",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/20_I_Bet_You_Think_About_Me_(Taylor's_Version)_(From_The_Vault)_[feat._Chris_Staple_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "I Bet You Think About Me (Taylor's Version) (From The Vault)",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/21_I_Bet_You_Think_About_Me_(Taylor's_Version)_(From_The_Vault)_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "The Thing About Things",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/22_The_Thing_About_Things_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "About The South",
+      "artist": "Rodney Atkins",
+      "has_synced": true,
+      "path": "select/23_About_The_South_Rodney_Atkins.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "All About Tonight",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/24_All_About_Tonight_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "All I Know About Girls",
+      "artist": "Old Dominion",
+      "has_synced": true,
+      "path": "select/25_All_I_Know_About_Girls_Old_Dominion.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Daydreams About Night Things",
+      "artist": "Ronnie Milsap",
+      "has_synced": true,
+      "path": "select/26_Daydreams_About_Night_Things_Ronnie_Milsap.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Daydreams About Night Things",
+      "artist": "Ronnie Milsap",
+      "has_synced": true,
+      "path": "select/27_Daydreams_About_Night_Things_Ronnie_Milsap.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Don't Think I Don't Think About It",
+      "artist": "Darius Rucker",
+      "has_synced": true,
+      "path": "select/28_Don't_Think_I_Don't_Think_About_It_Darius_Rucker.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "I Don't Know A Thing About Love - Single Version",
+      "artist": "Conway Twitty",
+      "has_synced": true,
+      "path": "select/29_I_Don't_Know_A_Thing_About_Love_-_Single_Version_Conway_Twitty.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "I Don't Know A Thing About Love - The Moon Song",
+      "artist": "Conway Twitty",
+      "has_synced": true,
+      "path": "select/30_I_Don't_Know_A_Thing_About_Love_-_The_Moon_Song_Conway_Twitty.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "I Don't Know a Thing About Love (The Moon Song)",
+      "artist": "Conway Twitty",
+      "has_synced": true,
+      "path": "select/31_I_Don't_Know_a_Thing_About_Love_(The_Moon_Song)_Conway_Twitty.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "About You",
+      "artist": "The 1975",
+      "has_synced": false,
+      "path": "select/pl_01_About_You_The_1975.txt"
+    }
+  ]
+}
